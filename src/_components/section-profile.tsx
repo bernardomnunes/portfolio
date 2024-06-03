@@ -16,7 +16,7 @@ const SectionProfile = () => {
         <p className="text-center text-[#555555] text-lg">Ola, eu sou</p>
         <h2 className="text-center text-3xl">Bernardo Nunes</h2>
         <p className="text-center text-xl text-[#555555] mt-1 mb-4">
-          Fullstack Developer
+          Desenvolvedor Fullstack
         </p>
         <div className="flex justify-center mb-4">
           <Button variant={"outline"} size={"lg"}>
