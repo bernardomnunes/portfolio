@@ -30,7 +30,8 @@ export function Hero() {
           <div className="w-full flex items-center justify-end max-md:justify-center gap-5 text-base text-[#a8adb2]">
             <a
               href="https://www.linkedin.com/in/bernardo-meneses-nunes/"
-              className="flex gap-1 items-center hover:text-white "
+              className="flex gap-1 items-center hover:text-white"
+              target="_blank"
             >
               <img
                 src="https://www.stefantopalovic.com/linkedin-icon.svg"
@@ -40,7 +41,11 @@ export function Hero() {
               />
               LinkedIn
             </a>
-            <a href="" className="flex gap-1 items-center hover:text-white">
+            <a
+              href="https://github.com/bernardomnunes"
+              className="flex gap-1 items-center hover:text-white"
+              target="_blank"
+            >
               <img
                 src="https://www.stefantopalovic.com/github-icon.svg"
                 width={24}

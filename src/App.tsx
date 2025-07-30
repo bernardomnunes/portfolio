@@ -1,5 +1,6 @@
 import { Header } from "./components/Header";
 import { Hero } from "./components/Hero";
+import { TechStack } from "./components/TechStack";
 
 export function App() {
   return (
@@ -7,6 +8,7 @@ export function App() {
       <div className="mx-auto max-w-[47.5rem] p-6 font-roboto">
         <Header />
         <Hero />
+        <TechStack />
       </div>
     </div>
   );
