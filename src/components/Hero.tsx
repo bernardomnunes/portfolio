@@ -1,6 +1,6 @@
 export function Hero() {
   return (
-    <div className="pb-20 pt-16 flex items-center gap-10 max-md:flex-col max-md:text-center">
+    <section className="pb-20 pt-16 flex items-center gap-10 max-md:flex-col max-md:text-center">
       {/* Image */}
       <div className="relative w-44 h-44 min-w-44 min-h-44 rounded-full overflow-hidden">
         <div className="absolute inset-0 bg-gradient-to-r from-orange-500 via-red-500 to-purple-500 rounded-full p-1">
@@ -57,6 +57,6 @@ export function Hero() {
           </div>
         </div>
       </div>
-    </div>
+    </section>
   );
 }

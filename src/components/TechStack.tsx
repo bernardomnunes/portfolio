@@ -1,6 +1,6 @@
 export function TechStack() {
   return (
-    <div className="flex flex-col mt-7">
+    <section className="flex flex-col mt-7">
       <h2 className="font-bold text-lg tracking-widest text-white uppercase mb-10">
         Tech Stack
       </h2>
@@ -77,6 +77,6 @@ export function TechStack() {
           <p>CSS</p>
         </div>
       </div>
-    </div>
+    </section>
   );
 }
