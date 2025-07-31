@@ -5,7 +5,13 @@ export function Hero() {
       <div className="relative w-44 h-44 min-w-44 min-h-44 rounded-full overflow-hidden">
         <div className="absolute inset-0 bg-gradient-to-r from-orange-500 via-red-500 to-purple-500 rounded-full p-1">
           <div className="w-full h-full bg-dark-bg rounded-full">
-            <img src="" alt="" />
+            <img
+              src="/src/assets/bernardo-image.svg.jpg"
+              width={170}
+              height={170}
+              alt="Avatar"
+              className="w-full h-full object-cover rounded-full border-white border-4"
+            />
           </div>
         </div>
       </div>
