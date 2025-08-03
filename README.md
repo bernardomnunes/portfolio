@@ -32,7 +32,6 @@ Feel free to reach out via:
 
 - Email: [bmn02@Outlook.com](mailto:bmn02@Outlook.com)
 - [LinkedIn](https://www.linkedin.com/in/bernardo-meneses-nunes/)
-- [GitHub](https://github.com/bernardomnunes)
 
 ---
 
